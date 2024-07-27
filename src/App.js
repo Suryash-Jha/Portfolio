@@ -76,6 +76,9 @@ function App() {
         <a href="https://github.com/suryash-jha" target="_blank"><IconButton size="lg"><GitHubIcon /></IconButton></a>
         <a href="https://leetcode.com/godofcode99" target="_blank"><IconButton size="lg"><TerminalIcon /></IconButton></a>
         <a href="https://www.linkedin.com/in/suryash-kumar-jha-4b1ab71bb/" target="_blank"><IconButton size="lg"><LinkedInIcon /></IconButton></a>
+        <a href="https://github.com/suryash-jha" target="_blank"><IconButton size="lg"><GitHubIcon /></IconButton></a>
+        <a href="https://leetcode.com/godofcode99" target="_blank"><IconButton size="lg"><TerminalIcon /></IconButton></a>
+        <a href="https://www.linkedin.com/in/suryash-kumar-jha-4b1ab71bb/" target="_blank"><IconButton size="lg"><LinkedInIcon /></IconButton></a>
         {/* <a href="https://github.com/suryash-jha" target="_blank"><IconButton><GitHubIcon /></IconButton></a> */}
 
       </Box>
